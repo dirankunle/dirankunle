@@ -1,8 +1,15 @@
 ![MasterHead](https://github.com/dirankunle/dirankunle/blob/main/adekunle.jpg)
 <h1 align="center">Hi 👋, I'm Adekunle Adediran</h1>
 <h3 align="center">A passionate DevOps Engineer & AWS Cloud Architect</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/dirankunle/dirankunle/blob/main/devOps-cloud-native-1.gif
-">
+<img align="left" alt="coding" width="400" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif"> <img align="right" alt="coding" width="400" src="https://github.com/dirankunle/dirankunle/blob/main/devOps-cloud-native-1.gif"> 
+
+
+- 🔭 I’m currently working on DevOps Projects
+- 🌱 I’m currently learning DevSecOps
+- 👯 I’m looking to collaborate on DevOps Projects
+- 💬 Ask me about Cloud services such as: AWS & Azure
+- 📫 How to reach me: diran.kunle@gmail.com
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dirankunle&label=Profile%20views&color=0e75b6&style=flat" alt="dirankunle" /> </p>
 
